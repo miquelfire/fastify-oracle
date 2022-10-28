@@ -61,3 +61,7 @@ async (req, reply) => {
 ## Versions
 
 Includes and exposes oracledb 5.5.0
+
+## Help wanted
+
+To get to 1.0, I want feedback if you happen to find this package/repo. First and foremost, a simple test setup. There may be other things like making this README file better.
