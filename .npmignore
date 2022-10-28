@@ -1,0 +1,8 @@
+# Allows for the end user to run a newer versions of the dependencies
+package-lock.json
+
+# Not needed for the npm package
+.eslintrc.js
+
+# Output of 'npm pack'
+*.tgz
