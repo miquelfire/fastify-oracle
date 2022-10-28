@@ -1,0 +1,25 @@
+{
+  "name": "@miquelfire/fastify-oracle",
+  "version": "0.1.0",
+  "description": "Adds OracleDB as a module to Fastify",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js --ignore-pattern node_modules/"
+  },
+  "keywords": [
+    "fastify",
+    "oracle"
+  ],
+  "author": "Miquel Fire Burns <[miquelfire@gmail.com](mailto:miquelfire@gmail.com)>",
+  "license": "MIT",
+  "types": "types/index.d.ts",
+  "dependencies": {
+    "fastify-plugin": "^4.3.0",
+    "oracledb": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.6",
+    "eslint": "^8.26.0",
+    "fastify": "^4.9.2"
+  }
+}
