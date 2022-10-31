@@ -11,5 +11,5 @@ function fastifyOracle(fastify, options, next) {
 
 module.exports = fp(fastifyOracle, {
 	fastify: '4.x',
-	name: '@miquelfire/fastify-oracle',
+	name: '@miquelfire/fastify-oracle-shim',
 });

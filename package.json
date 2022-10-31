@@ -1,5 +1,5 @@
 {
-  "name": "@miquelfire/fastify-oracle",
+  "name": "@miquelfire/fastify-oracle-shim",
   "version": "0.1.0",
   "description": "Adds OracleDB as a module to Fastify",
   "main": "index.js",
