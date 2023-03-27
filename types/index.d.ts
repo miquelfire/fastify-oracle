@@ -1,7 +1,7 @@
-import { FastifyPluginCallback } from "fastify";
+import { FastifyPluginCallback } from 'fastify';
 import * as oracledb from "oracledb";
 
-export const fastifyOracle: FastifyPluginCallback<>;
+export const fastifyOracle: FastifyPluginCallback;
 export default fastifyOracle;
 
 declare module 'fastify' {
