@@ -14,7 +14,7 @@
   "license": "MIT",
   "types": "types/index.d.ts",
   "dependencies": {
-    "fastify-plugin": "^4.5.0",
+    "fastify-plugin": "^4.5.1",
     "oracledb": "^6.0.3"
   },
   "devDependencies": {
