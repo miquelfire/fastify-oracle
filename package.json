@@ -20,6 +20,6 @@
   "devDependencies": {
     "@types/node": "^20.4.4",
     "eslint": "^8.45.0",
-    "fastify": "^4.20.0"
+    "fastify": "^4.21.0"
   }
 }
