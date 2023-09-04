@@ -15,7 +15,7 @@
   "types": "types/index.d.ts",
   "dependencies": {
     "fastify-plugin": "^4.5.1",
-    "oracledb": "^6.0.3"
+    "oracledb": "^6.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.5.7",
