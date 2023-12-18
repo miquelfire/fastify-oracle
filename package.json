@@ -18,7 +18,7 @@
     "oracledb": "^6.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.10.4",
+    "@types/node": "^20.10.5",
     "eslint": "^8.55.0",
     "fastify": "^4.24.3"
   }
